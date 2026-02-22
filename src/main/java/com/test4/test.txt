@@ -1,6 +1,15 @@
+<<<<<<< Updated upstream
 
 ##error fixing
 ##error fixed or bug is fixed
+=======
+Feature1
+//Some login with otp
+//100%done
+#If there is requirement of fixing a bug but this code i have to save temporarily so that after fixing the bug i can again work on in from where i left 
+for this code will be stored in the hidden git area temporary.
+
+>>>>>>> Stashed changes
 
 Hello there !
 Hello World !
